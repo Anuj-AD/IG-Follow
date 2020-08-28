@@ -1,4 +1,4 @@
-#to like every post
+#to follow every account
 import pyautogui as pag
 import time
 from random import randint
